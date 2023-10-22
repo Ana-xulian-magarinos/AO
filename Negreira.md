@@ -1,3 +1,8 @@
+
+![Foto de Negreira](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Negreira.svg/331px-Negreira.svg.png)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Negreira.svg/331px-Negreira.svg.png" alt="FotoNegreira" width="100px" />
+  
 # Negreira
  
 Negreira es un municipio de Galicia (España) que se encuentra al oeste de Santiago de Compostela.
@@ -10,12 +15,12 @@ Según el INE, en el año 2011 su población era de 7.077 habitantes.
 
 El municipio limita con:
 
- - Ames
- - A Baña
- - Brión
- - Outes
- - Mazaricos
- - Santa Comba
+ * Ames
+ * A Baña
+ * Brión
+ * Outes
+ * Mazaricos
+ * Santa Comba
 
 # Geografía
 
@@ -112,10 +117,10 @@ ayuntamiento negreirés.
 
 # Parroquias
 
-- Albite
-- Aro
-- Arzón
-- Broño
+* Albite
+* Aro
+* Arzón
+* Broño
 ...
 
 [Link a wikipedia](https://es.wikipedia.org/wiki/Negreira).
