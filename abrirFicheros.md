@@ -2,7 +2,7 @@
 
 A continuación vemos un ejemplo de como guardar datos en un fichero con Python
 
-``` Python
+``` 
 n = int(input('Introduce un número entero entre 1 y 10: '))
 nombre_fichero = 'tabla-' + str(n) + '.txt'
 f = open(nombre_fichero, 'w')
@@ -13,7 +13,7 @@ f.close()
 
 A continuación ejemplo de lectura de ficheros en Python:
 
-```
+```Python
 n = int(input('Introduce un número entero entre 1 y 10: '))
 nombre_fichero = 'tabla-' + str(n) + '.txt'
 f = open(nombre_fichero, 'w')
