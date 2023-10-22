@@ -105,13 +105,15 @@ arquitectónico o de una belleza excepcional que se encuentran muy próximos a l
 ayuntamiento negreirés.
 
 ✔ Pazo de Cotón
+
 ✔ Pazo de Albariña
+
 ✔ Ponte Maceira
 
 # Parroquias
 
--Albite
--Aro
--Arzón
--Broño
+- Albite
+- Aro
+- Arzón
+- Broño
 ...
