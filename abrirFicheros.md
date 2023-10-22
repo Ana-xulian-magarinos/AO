@@ -13,7 +13,7 @@ f.close()
 
 A continuación ejemplo de lectura de ficheros en Python:
 
-``
+```
 n = int(input('Introduce un número entero entre 1 y 10: '))
 nombre_fichero = 'tabla-' + str(n) + '.txt'
 f = open(nombre_fichero, 'w')
