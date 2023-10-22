@@ -1,5 +1,5 @@
 
-![Foto de Negreira](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Negreira.svg/331px-Negreira.svg.png)
+[//]: <> (![Foto de Negreira](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Negreira.svg/331px-Negreira.svg.png))
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Negreira.svg/331px-Negreira.svg.png" width="100px" />
   
