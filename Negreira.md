@@ -117,7 +117,7 @@ ayuntamiento negreirés.
 
 ✔ Ponte Maceira
 
-[parroquias]: # Parroquias
+<a name="parroquias"></a> # Parroquias
 
 * Albite
 * Aro
