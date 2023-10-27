@@ -11,6 +11,7 @@ Limita con los municipios de Ames, La Baña, Brión, Outes, Mazaricos y Santa Co
 provincia de La Coruña.
 
 Según el INE, en el año 2011 su población era de 7.077 habitantes.
+No 2022 os datos descenden a 6.811 habitantes.
 
 # Límites
 
